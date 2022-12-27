@@ -7,7 +7,7 @@ Standard template library in C++
 <li>Lists</li>
 <li>Stacks</li>
 <li>Queue</li>
-<li></li>
+<li>Priority Queue</li>
 <li></li>
 
 </ol>
