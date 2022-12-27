@@ -5,4 +5,9 @@ Standard template library in C++
 <li>Vectors</li>
 <li>Deque</li>
 <li>Lists</li>
+<li>Stacks</li>
+<li>Queue</li>
+<li></li>
+<li></li>
+
 </ol>
